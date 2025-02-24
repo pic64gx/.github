@@ -14,7 +14,9 @@ The PIC64GX MPU family meets mid-range intelligent edge compute needs with a 64-
 
 - [PIC64GX Yocto BSP](https://github.com/pic64gx/meta-pic64gx-yocto-bsp):
   Yocto based Linux build system for PIC64GX
-
+- [PIC64GX Buildroot](https://github.com/linux4microchip/buildroot-external-microchip):
+  Buildroot based Linux build system for PIC64GX
+  
 **Development Boards**
 
 - [PIC64GX Curiosity Kit](https://www.microchip.com/en-us/development-tool/CURIOSITY-PIC64GX1000-KIT-ES):
